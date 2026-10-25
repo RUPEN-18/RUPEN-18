@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <a href="#featured-projects">Featured Projects</a> &nbsp;·&nbsp;
-  <a href="#technology-stack">Technology Stack</a> &nbsp;·&nbsp;
+  <a href="#about-me">About Me</a> &nbsp;·&nbsp;
+  <a href="#featured-projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#technology-stack">Tech Stack</a> &nbsp;·&nbsp;
   <a href="#github-analytics">GitHub Analytics</a> &nbsp;·&nbsp;
   <a href="#connect">Connect</a>
 </p>
@@ -23,36 +24,36 @@
 
 ## About Me
 
-I’m a Computer Science and Engineering student specializing in **Artificial Intelligence & Robotics**, developing systems that bring together computer vision, embedded hardware, networking, and software automation.
+I’m a Computer Science and Engineering student specializing in **Artificial Intelligence & Robotics**, developing systems that combine computer vision, embedded hardware, networking, and software automation.
 
 My projects span robotic assistants, autonomous rovers, visual inspection applications, endpoint management, and network video streaming.
 
-- **Education:** Pursuing B.E. Computer Science and Engineering — Artificial Intelligence & Robotics.
-- **Development:** Working primarily with Python, C++, and SQL.
-- **Applied interests:** AI, machine learning, computer vision, robotics, and IoT.
-- **Engineering approach:** Connecting models and algorithms with usable applications and physical systems.
+- **Education:** Pursuing B.E. Computer Science and Engineering — Artificial Intelligence & Robotics at Sathyabama Institute of Science and Technology.
+- **Programming:** Working primarily with Python, C++, and SQL.
+- **Interests:** Artificial intelligence, machine learning, computer vision, robotics, automation, and IoT.
+- **Engineering approach:** Connecting algorithms and models with usable applications and physical systems.
 - **Academic direction:** Interested in advanced study and research in Computer Science and Artificial Intelligence internationally.
 
 ## Current Focus
 
 - Strengthening data structures, algorithms, and problem-solving skills.
-- Developing AURA, an intelligent indoor robotic assistant.
+- Developing **AURA**, an intelligent indoor robotic assistant.
 - Improving computer vision workflows for inspection and safety monitoring.
 - Deepening my understanding of autonomous systems and embedded integration.
 
 ---
 
-<h2 id="featured-projects">Featured Projects</h2>
+## Featured Projects
 
 ### Robotics & Intelligent Systems
 
 | Project | Engineering Focus | Technologies |
 | :--- | :--- | :--- |
 | **AURA — Autonomous Unified Robotic Assistant** | Final-year indoor robotic assistant combining owner authentication, face detection, voice interaction, scheduling, and reminders. Integrates computer vision and conversational AI with embedded control. | Python · OpenCV · YOLO · Raspberry Pi · ESP32 · Gemini API |
-| **GeoX — 6-DOF Autonomous Rover** | Mobile robotic platform with a six-degree-of-freedom arm for object collection and autonomous navigation, incorporating LiDAR/navigation concepts. **Awarded 2nd Prize at an international project/expo competition in Thailand.** | Raspberry Pi · ESP32 · Robotics · Embedded Systems |
+| **GeoX — 6-DOF Autonomous Rover** | Mobile robotic platform with a six-degree-of-freedom arm for object collection and autonomous navigation, incorporating LiDAR/navigation concepts. | Raspberry Pi · ESP32 · Robotics · Embedded Systems |
 
-<!-- Replace these placeholders with actual repository URLs.
-     If a project is not public, remove its link until it is available. -->
+<!-- Replace the project URL placeholders below with actual repository links.
+Remove links for projects that are not publicly available. -->
 
 **Explore:** [AURA](YOUR_AURA_REPOSITORY_URL) · [GeoX](YOUR_GEOX_REPOSITORY_URL)
 
@@ -77,14 +78,14 @@ My projects span robotic assistants, autonomous rovers, visual inspection applic
 
 ---
 
-<h2 id="technology-stack">Technology Stack</h2>
+## Technology Stack
 
 ### Programming & Data
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
   <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++" />
-  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=38BDF8" alt="SQL" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge" alt="SQL" />
   <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="MySQL" />
 </p>
 
@@ -92,8 +93,8 @@ My projects span robotic assistants, autonomous rovers, visual inspection applic
 
 <p>
   <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=A78BFA" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logoColor=A78BFA" alt="YOLO" />
-  <img src="https://img.shields.io/badge/Ultralytics-0D1117?style=for-the-badge&logoColor=A78BFA" alt="Ultralytics" />
+  <img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Ultralytics-0D1117?style=for-the-badge" alt="Ultralytics" />
 </p>
 
 ### Robotics & Embedded Systems
@@ -112,14 +113,14 @@ My projects span robotic assistants, autonomous rovers, visual inspection applic
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=A78BFA" alt="Linux" />
-  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logoColor=A78BFA" alt="Windows" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge" alt="Windows" />
 </p>
 
 ### Networking & Streaming
 
 <p>
-  <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logoColor=38BDF8" alt="TCP/IP" />
-  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Networking" />
+  <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge" alt="Networking" />
   <img src="https://img.shields.io/badge/FFmpeg-0D1117?style=for-the-badge&logo=ffmpeg&logoColor=38BDF8" alt="FFmpeg" />
 </p>
 
@@ -133,7 +134,7 @@ Recognized for **GeoX**, a mobile robotics project combining a 6-DOF robotic arm
 
 ---
 
-<h2 id="github-analytics">GitHub Analytics</h2>
+## GitHub Analytics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RUPEN-18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&hide_rank=true" alt="Rupendran's GitHub statistics" />
@@ -154,10 +155,6 @@ Recognized for **GeoX**, a mobile robotics project combining a 6-DOF robotic arm
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RUPEN-18&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="Rupendran's recent GitHub contribution activity" />
 </p>
 
-<!-- OPTIONAL CONTRIBUTION SNAKE
-Uncomment this entire section only AFTER the snake workflow has
-successfully generated the SVG files on the output branch.
-
 ### Contribution Snake
 
 <p align="center">
@@ -177,18 +174,16 @@ successfully generated the SVG files on the output branch.
   </picture>
 </p>
 
-END OPTIONAL CONTRIBUTION SNAKE -->
-
 ---
 
-<h2 id="connect">Connect</h2>
+## Connect
 
 Interested in conversations about computer vision, robotics, embedded systems, and practical software engineering.
 
 **[GitHub](https://github.com/RUPEN-18)**
 
 <!-- OPTIONAL CONTACT LINKS
-Replace every placeholder before uncommenting.
+Replace every placeholder before removing this comment.
 Remove any contact method you do not want to publish.
 
 [LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [Portfolio](YOUR_PORTFOLIO_URL)
