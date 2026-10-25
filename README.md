@@ -1,524 +1,205 @@
-Create a **visually stunning, modern, professional GitHub Profile README.md** for my GitHub account:
+<h1 align="center">Rupendran Manigandan</h1>
 
-**GitHub Username:** `RUPEN-18`
+<p align="center">
+  <strong>AI & Robotics Student · Computer Vision Developer · Python & C++</strong>
+</p>
 
-My current README is basic, and I want it completely redesigned into a premium developer portfolio that looks impressive to:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=45&lines=Building+Intelligent+Systems;Connecting+Software+and+Robotics;Exploring+Computer+Vision+and+Automation" alt="Building intelligent systems, connecting software and robotics, exploring computer vision and automation" />
+</p>
 
-- Recruiters
-- Software/AI companies
-- Internship reviewers
-- Master's university admission committees
-- Developers visiting my GitHub
+<p align="center">
+  Turning ideas into working systems across AI, robotics, and software.
+</p>
 
-The final output must be **complete GitHub-compatible Markdown that I can directly paste into my `RUPEN-18/RUPEN-18` README.md**.
-
----
-
-# 👨‍💻 My Profile
-
-My name is **Rupendran Manigandan**.
-
-I am currently pursuing:
-
-**B.E. Computer Science and Engineering — Artificial Intelligence & Robotics**
-
-My primary interests are:
-
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Robotics
-- Automation
-- Embedded Systems
-- IoT
-- Networking
-- Software Development
-
-My main programming languages include:
-
-- Python
-- C++
-- SQL
-
-Technologies/tools I have worked with include:
-
-- Python
-- C++
-- MySQL
-- OpenCV
-- YOLO
-- Ultralytics
-- Raspberry Pi
-- ESP32
-- Arduino
-- Git
-- GitHub
-- Linux
-- Windows
-- Networking
-- Computer Vision
-- AI/ML
-- ROS / Robotics concepts
+<p align="center">
+  <a href="#featured-projects">Featured Projects</a> &nbsp;·&nbsp;
+  <a href="#technology-stack">Technology Stack</a> &nbsp;·&nbsp;
+  <a href="#github-analytics">GitHub Analytics</a> &nbsp;·&nbsp;
+  <a href="#connect">Connect</a>
+</p>
 
 ---
 
-# 🚀 Important Projects
+## About Me
 
-Create a dedicated **Featured Projects** section highlighting my strongest projects.
+I’m a Computer Science and Engineering student specializing in **Artificial Intelligence & Robotics**, developing systems that bring together computer vision, embedded hardware, networking, and software automation.
 
-### AURA — Autonomous Unified Robotic Assistant
+My projects span robotic assistants, autonomous rovers, visual inspection applications, endpoint management, and network video streaming.
 
-Final-year intelligent indoor robotic assistant.
+- **Education:** Pursuing B.E. Computer Science and Engineering — Artificial Intelligence & Robotics.
+- **Development:** Working primarily with Python, C++, and SQL.
+- **Applied interests:** AI, machine learning, computer vision, robotics, and IoT.
+- **Engineering approach:** Connecting models and algorithms with usable applications and physical systems.
+- **Academic direction:** Interested in advanced study and research in Computer Science and Artificial Intelligence internationally.
 
-Technologies/concepts:
+## Current Focus
 
-- Raspberry Pi
-- ESP32
-- Python
-- OpenCV
-- Computer Vision
-- YOLO
-- Face Detection
-- Owner Authentication
-- Voice Control
-- Google Gemini API
-- Scheduling
-- Reminders
-- Indoor Robotics
-- Autonomous Assistance
-
-Present this as one of my flagship robotics/AI projects.
+- Strengthening data structures, algorithms, and problem-solving skills.
+- Developing AURA, an intelligent indoor robotic assistant.
+- Improving computer vision workflows for inspection and safety monitoring.
+- Deepening my understanding of autonomous systems and embedded integration.
 
 ---
 
-### GeoX — 6-DOF Autonomous Rover
+<h2 id="featured-projects">Featured Projects</h2>
 
-An intelligent mobile robotic rover with:
+### Robotics & Intelligent Systems
 
-- 6-DOF robotic arm
-- Autonomous navigation
-- Object collection
-- LiDAR / navigation concepts
-- Raspberry Pi
-- ESP32
-- Robotics
-- Embedded systems
+| Project | Engineering Focus | Technologies |
+| :--- | :--- | :--- |
+| **AURA — Autonomous Unified Robotic Assistant** | Final-year indoor robotic assistant combining owner authentication, face detection, voice interaction, scheduling, and reminders. Integrates computer vision and conversational AI with embedded control. | Python · OpenCV · YOLO · Raspberry Pi · ESP32 · Gemini API |
+| **GeoX — 6-DOF Autonomous Rover** | Mobile robotic platform with a six-degree-of-freedom arm for object collection and autonomous navigation, incorporating LiDAR/navigation concepts. **Awarded 2nd Prize at an international project/expo competition in Thailand.** | Raspberry Pi · ESP32 · Robotics · Embedded Systems |
 
-Mention professionally that the project received **2nd Prize at an international project/expo competition in Thailand**.
+<!-- Replace these placeholders with actual repository URLs.
+     If a project is not public, remove its link until it is available. -->
 
-Do not exaggerate the award beyond this information.
+**Explore:** [AURA](YOUR_AURA_REPOSITORY_URL) · [GeoX](YOUR_GEOX_REPOSITORY_URL)
 
----
+### Applied AI & Computer Vision
 
-### WeldSight AI
+| Project | Engineering Focus | Technologies |
+| :--- | :--- | :--- |
+| **WeldSight AI** | Desktop-style welding inspection application for images and video, with inspection results and reporting. Detects good/bad welding, cracks, porosity, spatter, and excess reinforcement. | Python · YOLO · Ultralytics · Computer Vision |
+| **SiteGuard AI** | Construction-site safety monitoring application for worker detection, helmet and reflective-jacket checks, PPE compliance, and violation identification. | Python · YOLO · Ultralytics · Computer Vision |
+| **YOLOv8 Object Detection Studio** | Computer vision application for image and video object detection, recognition, and experimentation with YOLOv8. | Python · YOLOv8 · Computer Vision |
 
-An AI-based welding quality inspection system developed during my internship/project work.
+**Explore:** [WeldSight AI](YOUR_WELDSIGHT_REPOSITORY_URL) · [SiteGuard AI](YOUR_SITEGUARD_REPOSITORY_URL) · [Object Detection Studio](YOUR_YOLOV8_STUDIO_REPOSITORY_URL)
 
-Technology:
+### Software & Network Automation
 
-- YOLO
-- Python
-- Ultralytics
-- Computer Vision
+| Project | Engineering Focus | Technologies / Concepts |
+| :--- | :--- | :--- |
+| **[NovaFleet — Endpoint Management System](https://github.com/RUPEN-18/NovaFleet-Endpoint-Management)** | Admin-client software for application deployment, remote and inactivity-based shutdown, device monitoring, and administrative control. | Client–Server Architecture · Networking · Endpoint Automation |
+| **Wireless Display System** | Windows-to-Android TV screen casting with a Windows sender, Android TV receiver, and FFmpeg-based video streaming over TCP. | FFmpeg · TCP/IP · Android TV · Video Streaming |
 
-Detects welding conditions/defects such as:
-
-- Good Welding
-- Bad Welding
-- Crack
-- Porosity
-- Spatter
-- Excess Reinforcement
-
-Includes a desktop-style application for analyzing welding images/video and generating inspection results.
+**Explore:** [NovaFleet](https://github.com/RUPEN-18/NovaFleet-Endpoint-Management) · [Wireless Display](YOUR_WIRELESS_DISPLAY_REPOSITORY_URL)
 
 ---
 
-### SiteGuard AI
+<h2 id="technology-stack">Technology Stack</h2>
 
-AI-based construction-site PPE safety monitoring system.
+### Programming & Data
 
-Uses computer vision to detect:
-
-- Workers
-- Safety helmets
-- Reflective jackets
-- PPE compliance
-- Safety violations
-
-Technologies:
-
-- Python
-- YOLO
-- Ultralytics
-- Computer Vision
-
-Present it as an industrial safety / AI monitoring project.
-
----
-
-### NovaFleet — Endpoint Management System
-
-Admin-client endpoint management and automation software.
-
-Capabilities include:
-
-- Remote client management
-- Software deployment
-- Remote shutdown
-- Inactivity-based shutdown
-- Device monitoring
-- Client/server communication
-- Administrative controls
-
-Present it as a software/network automation project.
-
----
-
-### Wireless Display System
-
-Windows-to-Android TV wireless screen casting system.
-
-Concepts/technologies include:
-
-- Windows sender
-- Android TV receiver
-- TCP networking
-- FFmpeg
-- Video streaming
-- Network communication
-- Wireless display / screen casting
-
----
-
-### YOLOv8 Object Detection Studio
-
-Computer vision application based on YOLOv8 for:
-
-- Image detection
-- Video detection
-- Object recognition
-- AI experimentation
-
----
-
-# 🎯 Career Direction
-
-My goal is to become a strong engineer specializing in areas such as:
-
-**Artificial Intelligence • Computer Vision • Robotics • Intelligent Systems • Software Engineering**
-
-I am also interested in pursuing higher studies in **Computer Science / Artificial Intelligence** internationally.
-
-Keep this sentence professional. Do not make the README sound like I am desperately searching for admission or employment.
-
----
-
-# 🎨 README DESIGN
-
-Create a premium dark/developer-style GitHub profile.
-
-Use a clean visual hierarchy.
-
-The header should contain something similar to:
-
-```html
-<h1 align="center">Hi 👋, I'm Rupendran Manigandan</h1>
-
-<h3 align="center">
-AI & Robotics Engineer • Computer Vision Developer • Software Developer
-</h3>
-```
-
-You may improve this wording.
-
-Under the heading, create an animated typing introduction using a reliable service such as `readme-typing-svg`.
-
-Possible rotating phrases:
-
-- AI & Robotics Engineer
-- Computer Vision Developer
-- Building Intelligent Systems
-- Python & C++ Developer
-- Robotics • AI • Automation
-
-Do not make the animation overly flashy.
-
----
-
-# 👨‍💻 About Me
-
-Rewrite my current About Me section professionally.
-
-Do NOT use childish wording such as:
-
-> "Hey! I'm RUPENDRAN"
-
-Instead, create something similar in quality to:
-
-> Computer Science Engineering student specializing in Artificial Intelligence and Robotics, passionate about developing intelligent systems that combine software, computer vision, embedded hardware, and automation.
-
-Then provide approximately 4–6 concise profile points.
-
-For example:
-
-- 🎓 B.E. CSE — Artificial Intelligence & Robotics
-- 🤖 Building AI, robotics and computer vision systems
-- 🧠 Interested in AI, ML, CV, Robotics and Automation
-- 💻 Working primarily with Python and C++
-- 🔬 Exploring intelligent autonomous systems
-- 🌍 Interested in international research and higher education
-
-Keep it professional.
-
----
-
-# 🛠️ Tech Stack
-
-Create a visually attractive technology section using Shields.io badges or technology icons.
-
-Organize technologies into categories.
-
-Example:
-
-### Programming
-
-Python  
-C++  
-SQL
+<p>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=38BDF8" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-0D1117?style=for-the-badge&logo=cplusplus&logoColor=38BDF8" alt="C++" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logoColor=38BDF8" alt="SQL" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=38BDF8" alt="MySQL" />
+</p>
 
 ### AI & Computer Vision
 
-YOLO  
-OpenCV  
-Ultralytics  
-Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=A78BFA" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/YOLO-0D1117?style=for-the-badge&logoColor=A78BFA" alt="YOLO" />
+  <img src="https://img.shields.io/badge/Ultralytics-0D1117?style=for-the-badge&logoColor=A78BFA" alt="Ultralytics" />
+</p>
 
 ### Robotics & Embedded Systems
 
-Raspberry Pi  
-ESP32  
-Arduino  
-ROS
+<p>
+  <img src="https://img.shields.io/badge/Raspberry_Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=38BDF8" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=38BDF8" alt="ESP32" />
+  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=38BDF8" alt="Arduino" />
+</p>
 
-### Development & Tools
+**Exploring:** ROS and autonomous robotics concepts.
 
-Git  
-GitHub  
-Linux  
-Windows  
-VS Code
+### Development & Platforms
 
-### Data / Networking
+<p>
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=A78BFA" alt="Linux" />
+  <img src="https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logoColor=A78BFA" alt="Windows" />
+</p>
 
-MySQL  
-TCP/IP  
-Networking
+### Networking & Streaming
 
-Do not include technologies I have not actually used.
-
----
-
-# 🚀 Featured Projects
-
-Make this one of the strongest parts of the README.
-
-Instead of writing huge paragraphs, use attractive project cards/tables.
-
-For example:
-
-| Project | Description | Technologies |
-|---|---|---|
-| 🤖 AURA | Autonomous intelligent robotic assistant | Python, OpenCV, Raspberry Pi, ESP32, Gemini |
-| 🛰️ GeoX | Autonomous rover with 6-DOF robotic arm | Robotics, Raspberry Pi, ESP32 |
-| 🔥 WeldSight AI | AI welding quality inspection | YOLO, Python, Computer Vision |
-| 🦺 SiteGuard AI | Construction PPE detection | YOLO, CV, Python |
-| 🖥️ NovaFleet | Endpoint management platform | Client/Server, Networking |
-| 📡 Wireless Display | PC-to-Android TV streaming | FFmpeg, TCP, Android |
-
-Make the descriptions sound professional and technical.
-
-If repository links are unknown, use placeholders such as:
-
-```markdown
-[View Project](YOUR_REPOSITORY_LINK)
-```
-
-Clearly mark them so I can replace them later.
-
-Never invent repository URLs.
+<p>
+  <img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge&logoColor=38BDF8" alt="TCP/IP" />
+  <img src="https://img.shields.io/badge/Networking-0D1117?style=for-the-badge&logoColor=38BDF8" alt="Networking" />
+  <img src="https://img.shields.io/badge/FFmpeg-0D1117?style=for-the-badge&logo=ffmpeg&logoColor=38BDF8" alt="FFmpeg" />
+</p>
 
 ---
 
-# 🏆 Achievements
+## Achievement
 
-Add a compact professional achievements section.
+**🥈 2nd Prize — International Project/Expo Competition, Thailand**
 
-Include:
-
-**🥈 2nd Prize — International Project Expo, Thailand**
-
-For the GeoX robotics project.
-
-Do not invent additional achievements.
+Recognized for **GeoX**, a mobile robotics project combining a 6-DOF robotic arm, object collection, and autonomous navigation.
 
 ---
 
-# 📊 GitHub Analytics
+<h2 id="github-analytics">GitHub Analytics</h2>
 
-Create a professional GitHub statistics section for:
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RUPEN-18&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=A78BFA&text_color=C9D1D9&hide_rank=true" alt="Rupendran's GitHub statistics" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RUPEN-18&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=6" alt="Most used languages across public repositories" />
+</p>
 
-`RUPEN-18`
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=RUPEN-18&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8" alt="Rupendran's GitHub contribution streak" />
+</p>
 
-Include reliable cards such as:
+<p align="center">
+  <sub>Language statistics reflect repository code composition, rather than proficiency.</sub>
+</p>
 
-- GitHub Stats
-- GitHub Streak
-- Most Used Languages
+## Contribution Activity
 
-Use a visually consistent dark theme.
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RUPEN-18&bg_color=0D1117&color=C9D1D9&line=38BDF8&point=A78BFA&area=true&hide_border=true" alt="Rupendran's recent GitHub contribution activity" />
+</p>
 
-Avoid broken or unreliable APIs where possible.
+<!-- OPTIONAL CONTRIBUTION SNAKE
+Uncomment this entire section only AFTER the snake workflow has
+successfully generated the SVG files on the output branch.
 
-Example heading:
+### Contribution Snake
 
-```markdown
-## 📊 GitHub Analytics
-```
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/RUPEN-18/RUPEN-18/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/RUPEN-18/RUPEN-18/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="Animated snake following my GitHub contributions"
+      src="https://raw.githubusercontent.com/RUPEN-18/RUPEN-18/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
-Center the cards when appropriate.
-
----
-
-# 🐍 Contribution Graph
-
-If possible, include a GitHub contribution snake animation section.
-
-Use the standard GitHub Actions-based contribution snake structure.
-
-If extra configuration is required, clearly mention that separately after the README instead of pretending it automatically works.
-
----
-
-# 📈 Activity / Contribution Graph
-
-Include a clean GitHub activity graph if a reliable service is available.
-
-Keep the visual style consistent.
-
----
-
-# 🌐 Connect With Me
-
-Create a professional contact section.
-
-Do NOT invent my LinkedIn, email, portfolio or social media.
-
-Use placeholders like:
-
-```markdown
-[LinkedIn](YOUR_LINKEDIN_URL)
-[Email](mailto:YOUR_EMAIL)
-[Portfolio](YOUR_PORTFOLIO_URL)
-```
-
-Clearly indicate which values I need to replace.
+END OPTIONAL CONTRIBUTION SNAKE -->
 
 ---
 
-# 👁️ Profile Views
+<h2 id="connect">Connect</h2>
 
-Include a subtle profile visitor counter using:
+Interested in conversations about computer vision, robotics, embedded systems, and practical software engineering.
 
-```text
-RUPEN-18
-```
+**[GitHub](https://github.com/RUPEN-18)**
 
-Do not make the visitor counter a major visual element.
+<!-- OPTIONAL CONTACT LINKS
+Replace every placeholder before uncommenting.
+Remove any contact method you do not want to publish.
 
----
+[LinkedIn](YOUR_LINKEDIN_URL) · [Email](mailto:YOUR_EMAIL) · [Portfolio](YOUR_PORTFOLIO_URL)
+-->
 
-# 💬 Developer Quote
+<br />
 
-My current README contains a random developer quote.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RUPEN-18&label=Profile%20views&color=0891b2&style=flat" alt="Profile view counter" />
+</p>
 
-You may retain a developer quote section only if it improves the overall appearance.
-
-Do not let it distract from the important professional sections.
-
----
-
-# 📐 Recommended README Structure
-
-Use approximately this structure:
-
-1. Animated Header
-2. Professional tagline
-3. About Me
-4. Current Focus
-5. Tech Stack
-6. Featured Projects
-7. Achievements
-8. GitHub Analytics
-9. Contribution / Activity Graph
-10. Contact / Connect With Me
-11. Profile Views
-12. Minimal footer
-
----
-
-# 🎨 VISUAL STYLE REQUIREMENTS
-
-The README should feel:
-
-- Premium
-- Technical
-- Modern
-- Clean
-- Minimal
-- Developer-oriented
-- AI / Robotics themed
-
-Prefer a dark blue / cyan / purple visual feel where external badges or stat cards allow themes.
-
-Avoid:
-
-- Excessive emojis
-- Huge blocks of text
-- Too many animations
-- Giant banners
-- Childish descriptions
-- Fake statistics
-- Fake achievements
-- Fake companies
-- Fake certifications
-- Fake skills
-- Fake links
-- Overly decorative HTML
-- Broken widgets
-
-Use whitespace intelligently.
-
----
-
-# ⚠️ IMPORTANT
-
-Do not simply modify my old README line by line.
-
-**Completely redesign and rewrite it from scratch.**
-
-The finished README should make someone immediately understand that I am building substantial projects across:
-
-**AI + Computer Vision + Robotics + Embedded Systems + Networking + Software Engineering.**
-
-Make my projects the main strength of the profile.
-
-The final response should contain:
-
-1. **The complete finished `README.md` inside one Markdown code block**
-2. A very short section afterward explaining any placeholders I need to replace
-3. Any extra setup required for features such as the GitHub contribution snake
-
-Do not include unnecessary explanations before the README.
-
-Make the final result ready to copy directly into GitHub.
+<p align="center">
+  <sub>Intelligent systems. Practical engineering. Continuous learning.</sub>
+</p>
